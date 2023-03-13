@@ -1,0 +1,19 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+Answer:
+  
+HTTP 1.1:
+  HTTP 1.1 it is not encryption & not secure
+  Server side not push
+  Use single request/response
+HTTP 2:
+  HTTP2 requires the use of encryption. HTTP2 is secure data transfer, while HTTP1.1 does not. 
+  HTTP1.1 belong to HTTP2 more secure 
+  Allow the server push content
+  Supporting Multiple request
+  
+2.Write a blog about objects and its internal representation in JavaScript
+	Answer:       
+  To access a property of an object. We can use the dot notation. we can access it using either Person[‘name’].
+
+3.code kata practice
+	Today practice done
